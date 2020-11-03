@@ -1,5 +1,5 @@
 {
-  "name": "amazeelabs/drutiny-simple-package",
+  "name": "timclifford/drutiny-simple-package",
   "type": "library",
   "description": "Example policies for Drutiny.",
   "keywords": ["drupal", "audit", "drush", "security", "report"],
